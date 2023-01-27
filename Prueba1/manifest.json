@@ -1,0 +1,17 @@
+{
+    "short_name": "Pagina1",
+    "name": "Creando Pagina1",
+    "icons": [
+        {
+            "src": "/images/dog.png",
+            "sizes": "192x162",
+            "type": "/image/png"
+        }
+    ],
+    "start_url": "/index.html",
+    "background_color": "#7FFF00",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#5F9EA0",
+    "description":"weather forecaste information"
+}
